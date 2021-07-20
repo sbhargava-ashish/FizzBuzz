@@ -13,6 +13,7 @@ public class Result {
         }
     }
 
+
     private static boolean isValid(int range) {
         return range > 0 ? true : false;
     }
